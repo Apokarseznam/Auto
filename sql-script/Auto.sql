@@ -23,6 +23,10 @@ INSERT INTO Auto VALUES
 	(3,'Opel','Astra','Cerna','55'),
 	(4,'BMW','X5','Modra','95'),
 	(5,'Seat','Leon','Zluta','49'),
-	(6,'Ford','Focus','Fialova','62');
+	(6,'Ford','Focus','Fialova','62')
+	(7,'VW','Passat','Cerna','128'),
+	(8,'Skoda','Fabia','Modra','45'),
+	(9,'Renault','Megane','Zelena','67'),
+	(10,'Opel','Corsa','Zluta','44');
 
 
