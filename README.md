@@ -12,6 +12,3 @@ A sample Java Spring MVC application.
 ```shell
 $ git clone https://github.com/Apokarseznam/Auto.git
 ```
-### License
-
-This project is licensed under the Apache License 2.0.
